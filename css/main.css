@@ -89,7 +89,7 @@ html {
 
 #slider {
     position: relative;
-    background: url(/img/chicago.jpg) top center/ cover no-repeat;
+    background: url(https://www.w3schools.com/w3images/chicago.jpg) top center/ cover no-repeat;
     padding-top: 50%;
     margin-top: 46px;
 }
